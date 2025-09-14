@@ -20,7 +20,7 @@ Customer insights (demographics, purchasing patterns)
 
 🔹 How to Use
 Clone this repository:
-git clone https://github.com/your-username/blinkit-powerbi-dashboard.git
+git clone https://github.com/saiakshith0104/blinkit-powerbi-dashboard.git
 
 Open PROJECT.pbix in Power BI Desktop.
 Refresh the dataset if required (Home → Transform Data → Refresh).
